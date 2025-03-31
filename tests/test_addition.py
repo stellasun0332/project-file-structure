@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 import src.addition as addition
+=======
+
+from src import addition
+>>>>>>> bf0bc2843b167989453dac9a80664f7ff179846c
 
 def test_addition():
     # Assert
